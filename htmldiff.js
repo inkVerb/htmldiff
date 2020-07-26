@@ -6,9 +6,9 @@
  * @derivedsee https://github.com/tnwinc/htmldiff.js
  * @derived https://codepen.io/benbowes/pen/pVaMpv
  * @author https://github.com/poetryiscode
- * @see https://github.com/poetryiscode/htmldiff.js
+ * @see https://github.com/poetryiscode/htmldiff
 
- * License: GPLv3 (https://github.com/poetryiscode/htmldiff.js/blob/master/LICENSE)
+ * License: GPLv3 (https://github.com/poetryiscode/htmldiff/blob/master/LICENSE)
  */
 
    var Match, calculate_operations, consecutive_where, create_index, diff, find_match, find_matching_blocks, html_to_tokens, is_end_of_tag, is_start_of_tag, is_tag, is_whitespace, isnt_tag, op_map, recursively_find_matching_blocks, render_operations, wrap;
